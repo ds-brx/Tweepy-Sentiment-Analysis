@@ -18,21 +18,25 @@ In this project, I have extracted tweets with the help of Tweepy API. Next I hav
 <li><B>appCredentials.py</B> : to specify access tokens for twitter api</li>
 <li><B>Stream.py</B> : Classes and methods to stream tweets and attributes from twitter api.</li>
 <li><B>preprocessor.py</B> : Preprocessing techniques:
-  <li> Stemming </li>
-  <li> Lemmatizing </li>
-  <li> Subjectivity and Polarity </li>
-  <li> Frequency Distribution of words </li>
-  <li> Count Vectorizer </li>
-  <li> TF-IDF matrix </li>
-  <li> Text to Sequence </li>
-  <li> POS tagger </li>
+  <ol>
+    <li> Stemming </li>
+    <li> Lemmatizing </li>
+    <li> Subjectivity and Polarity </li>
+    <li> Frequency Distribution of words </li>
+    <li> Count Vectorizer </li>
+    <li> TF-IDF matrix </li>
+    <li> Text to Sequence </li>
+    <li> POS tagger </li>
+  </ol>
   <li> Name Entity Recognizers </li>
 </li>
 <li> <B>models.py</B> : Models explored:
-  <li> SVM classifier </li>
-  <li> Naive Bayes Model </li>
-  <li> XGBoost classifier</li>
-  <li> LSTM </li>
+  <ol>
+    <li> SVM classifier </li>
+    <li> Naive Bayes Model </li>
+    <li> XGBoost classifier</li>
+    <li> LSTM </li>
+  </ol>
   </li>
   <li><B>sentiment_analysis.ipynb </B>: Exploring the various techniques listed in the modules above </li>
   
