@@ -15,10 +15,11 @@ In this project, I have extracted tweets with the help of Tweepy API. Next I hav
 <li> XGBoost </li>
 
 ## Files:
+<ol>
 <li><B>appCredentials.py</B> : to specify access tokens for twitter api</li>
 <li><B>Stream.py</B> : Classes and methods to stream tweets and attributes from twitter api.</li>
 <li><B>preprocessor.py</B> : Preprocessing techniques:
-  <ol>
+  <ul>
     <li> Stemming </li>
     <li> Lemmatizing </li>
     <li> Subjectivity and Polarity </li>
@@ -27,17 +28,18 @@ In this project, I have extracted tweets with the help of Tweepy API. Next I hav
     <li> TF-IDF matrix </li>
     <li> Text to Sequence </li>
     <li> POS tagger </li>
-  </ol>
   <li> Name Entity Recognizers </li>
+  </ul>
 </li>
 <li> <B>models.py</B> : Models explored:
-  <ol>
+  <ul>
     <li> SVM classifier </li>
     <li> Naive Bayes Model </li>
     <li> XGBoost classifier</li>
     <li> LSTM </li>
-  </ol>
+    </ul>
   </li>
   <li><B>sentiment_analysis.ipynb </B>: Exploring the various techniques listed in the modules above </li>
+  </ol>
   
   
