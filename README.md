@@ -1,6 +1,6 @@
 # Tweepy-Sentiment-Analysis
 Twitter is an enormous source of information on variety of topics, the extracted data can be used for useful insights, information extraction, sentiment analysis and much more!
-In this project, I have extracted tweets with the help of Tweepy API. Next I have explored a few preproccessing techniques and modells for sentiment analysis. This project is still under progress, the primary objective of this project is information extraction, which is yet to be implemented.
+In this project, I have extracted tweets with the help of Tweepy API. Next I have explored a few preproccessing techniques and models for sentiment analysis. This project is still under progress, the primary objective of this project is information extraction, which is yet to be implemented.
 
 ## Libraries used:
 <li> Tweepy </li>
